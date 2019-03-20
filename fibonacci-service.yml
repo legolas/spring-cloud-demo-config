@@ -1,2 +1,2 @@
 # fibonacci-service.yml
-addition-service-url: http://localhost:8080
+addition-service-url: http://localhost:8085
