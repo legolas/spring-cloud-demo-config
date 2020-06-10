@@ -1,2 +1,11 @@
 # fibonacci-service.yml
 addition-service-url: http://localhost:8085/add
+
+# Demo boolean property
+boolean:
+  property: false
+send:
+  mail:
+    when:
+      no:
+        updates: false
