@@ -8,4 +8,4 @@ send:
   mail:
     when:
       no:
-        updates: false
+        updates: true
